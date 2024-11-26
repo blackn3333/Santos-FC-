@@ -122,7 +122,7 @@
     border-style: solid;
     border-radius: 10px;
     margin-top: 25px;
-    background-color: white;
+    background-color: rgb(73, 66, 66);
     transition: 1s;
 }
 #buton1:hover {
